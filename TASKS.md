@@ -11,7 +11,7 @@ Domain: hamradioguide.webcytz.com
 - [x] Initialize git repository
 - [x] Create GitHub repo (site-generator-hamradioguide)
 - [x] Create Cloudflare Pages project with GitHub integration
-- [ ] Add DNS CNAME record for hamradioguide.webcytz.com
+- [x] Add DNS CNAME record for hamradioguide.webcytz.com
 - [ ] Add custom domain to Cloudflare Pages project
 
 ## Phase 2: Research & Planning
