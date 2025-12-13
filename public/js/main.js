@@ -61,6 +61,58 @@
         lastScroll = currentScroll;
     });
 
+    // FAQ Accordion
+    const faqItems = document.querySelectorAll('.faq-item');
+
+    faqItems.forEach(function(item) {
+        const question = item.querySelector('.faq-question');
+
+        if (question) {
+            question.addEventListener('click', function() {
+                const isActive = item.classList.contains('active');
+
+                // Close all other FAQ items
+                faqItems.forEach(function(otherItem) {
+                    otherItem.classList.remove('active');
+                    const btn = otherItem.querySelector('.faq-question');
+                    if (btn) btn.setAttribute('aria-expanded', 'false');
+                });
+
+                // Toggle current item
+                if (!isActive) {
+                    item.classList.add('active');
+                    question.setAttribute('aria-expanded', 'true');
+                }
+            });
+        }
+    });
+
+    // Intersection Observer for scroll animations
+    const observerOptions = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+    };
+
+    const animateOnScroll = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('animate-in');
+                animateOnScroll.unobserve(entry.target);
+            }
+        });
+    }, observerOptions);
+
+    // Observe elements for animation
+    const animateElements = document.querySelectorAll(
+        '.step-card, .license-card, .product-card, .budget-card, .process-step, .faq-item'
+    );
+
+    animateElements.forEach(function(el) {
+        el.classList.add('animate-ready');
+        animateOnScroll.observe(el);
+    });
+
     // Track affiliate link clicks
     document.addEventListener('click', function(e) {
         const link = e.target.closest('a');

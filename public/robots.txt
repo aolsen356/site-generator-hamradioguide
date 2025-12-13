@@ -1,0 +1,7 @@
+# robots.txt for hamradioguide.webcytz.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hamradioguide.webcytz.com/sitemap.xml
