@@ -11,6 +11,8 @@ In development - tasks being processed by site-agent
 - Amazon Associate Tag: kcwd-20
 - GA4 ID: G-38BF85QJG1
 - GitHub Repo: site-generator-hamradioguide
+- Cloudflare Pages Project: site-generator-hamradioguide
+- Cloudflare Pages URL: https://site-generator-hamradioguide.pages.dev
 
 ## Notes
 This file will be updated as the site develops.
