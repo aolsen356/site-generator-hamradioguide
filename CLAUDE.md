@@ -13,6 +13,7 @@ In development - tasks being processed by site-agent
 - GitHub Repo: site-generator-hamradioguide
 - Cloudflare Pages Project: site-generator-hamradioguide
 - Cloudflare Pages URL: https://site-generator-hamradioguide.pages.dev
+- DNS CNAME: hamradioguide.webcytz.com -> site-generator-hamradioguide.pages.dev (proxied)
 
 ## Notes
 This file will be updated as the site develops.
