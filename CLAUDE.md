@@ -278,3 +278,518 @@ Based on competitor analysis, the following content gaps present opportunities f
 - "quansheng uv-k5 review"
 - "ham radio digital modes for beginners"
 - "ham radio total cost"
+
+## Content Outline
+
+### Page Structure Overview
+
+**Target Word Count:** 4,000-5,000 words (comprehensive guide format)
+**Primary Keyword Focus:** "ham radio for beginners", "how to get ham radio license"
+**Page Title:** Ham Radio Beginner's Guide 2025: From License to First Contact
+**Meta Description:** Complete ham radio guide for beginners. Learn how to get your license ($35 FCC fee), choose your first radio under $100, and make your first contact. Updated for 2025.
+
+---
+
+### Hero Section
+**Purpose:** Capture attention, establish credibility, clear value proposition
+
+**Headline:** Your Complete Guide to Getting Started in Ham Radio
+**Subheadline:** From license to first contact - everything you need to know in 2025
+
+**Key Elements:**
+- Eye-catching hero image (radio equipment or operator)
+- 3 quick benefit bullets:
+  - Get licensed in as little as 2 weeks
+  - Start with equipment under $100
+  - Join a worldwide community of 750,000+ US operators
+- Primary CTA: "Start Your Ham Radio Journey" (anchor to Section 1)
+- Secondary CTA: "See Best Beginner Radios" (anchor to Section 4)
+
+---
+
+### Section 1: What is Ham Radio & Why Get Licensed
+**Word Count:** 400-500 words
+**Target Keywords:** what is ham radio, why get ham radio license, amateur radio benefits
+
+**Content Outline:**
+
+**1.1 What is Amateur (Ham) Radio?**
+- Definition: Licensed radio communication service for personal, non-commercial use
+- Brief history: Over 100 years of amateur experimentation
+- Current stats: 750,000+ licensed operators in US alone
+- Distinction from CB, FRS, GMRS (brief mention, detailed comparison later)
+
+**1.2 Why People Get Into Ham Radio**
+- Emergency communication (when cell networks fail)
+- Technical hobby and experimentation
+- Community and social connections
+- Portable outdoor activities (POTA, SOTA)
+- Satellite communication and space stations (ISS contacts)
+- Digital modes and modern technology integration
+
+**1.3 What Can You Do With a Ham License?**
+- Talk locally via repeaters (within 50+ mile radius)
+- Make worldwide contacts via HF bands
+- Bounce signals off the moon (EME)
+- Work amateur satellites
+- Participate in contests and award chasing
+- Provide emergency communication (ARES, RACES)
+- Experiment with antenna building and electronics
+
+**Visual Element:** Infographic showing "Ham Radio vs CB vs GMRS vs FRS" comparison table
+| Feature | Ham Radio | CB Radio | GMRS | FRS |
+|---------|-----------|----------|------|-----|
+| License Required | Yes ($35) | No | Yes ($35) | No |
+| Range | Worldwide | 5-10 miles | 5-25 miles | 1-2 miles |
+| Power Limit | Up to 1500W | 4W | 50W | 2W |
+| Frequencies | Many bands | 40 channels | 22 channels | 22 channels |
+
+---
+
+### Section 2: Understanding Ham Radio License Classes
+**Word Count:** 500-600 words
+**Target Keywords:** ham radio license classes, technician license, general license, extra license
+
+**Content Outline:**
+
+**2.1 The Three License Classes**
+
+**Technician Class (Entry Level)**
+- Easiest exam: 35 questions, 26 correct to pass
+- Privileges: VHF/UHF bands (most repeaters), limited HF
+- Best for: Local communication, handhelds, emergency prep
+- Typical range: 25-50+ miles via repeaters, limited HF voice
+- Exam pool: Valid 2022-2026
+
+**General Class (Intermediate)**
+- Exam: 35 questions, 26 correct to pass
+- Additional privileges: Most HF bands for worldwide communication
+- Best for: Those wanting to talk globally, DXing, contesting
+- Requires: Technician license first
+
+**Amateur Extra (Advanced)**
+- Hardest exam: 50 questions, 37 correct to pass
+- Privileges: All amateur frequencies, exclusive Extra portions
+- Best for: Serious hobbyists, contesters, DX enthusiasts
+- Requires: General license first
+
+**2.2 Which License Should You Get First?**
+- Recommendation: Start with Technician
+- Why: Quick to obtain, great for learning, sufficient for most beginners
+- Upgrade path: Can upgrade anytime by passing next exam
+- No waiting period between exams
+
+**2.3 What the License Actually Costs (2025)**
+- FCC application fee: $35 (valid for 10 years)
+- Exam session fee: $0-$15 (varies by VEC)
+- Study materials: $0-$30 (free resources available)
+- **Total: $35-$80 to get licensed**
+
+**Visual Element:** License comparison table and cost breakdown graphic
+
+---
+
+### Section 3: How to Get Your Ham Radio License
+**Word Count:** 600-700 words
+**Target Keywords:** how to get ham radio license, ham radio exam, technician exam prep
+
+**Content Outline:**
+
+**3.1 Step-by-Step Licensing Process**
+
+**Step 1: Get Your FRN (FCC Registration Number)**
+- Register at FCC CORES website
+- Free, takes 10 minutes
+- Required before exam
+
+**Step 2: Study for the Exam**
+- Technician exam: 35 multiple-choice questions from 400+ question pool
+- Passing score: 26 correct (74%)
+- Average study time: 10-20 hours over 1-3 weeks
+- Question pool is public - study the actual questions
+
+**Study Resources (Free):**
+- HamStudy.org - free practice tests, tracks progress
+- ARRL practice exams - official study materials
+- Ham Radio Prep (YouTube) - video explanations
+
+**Study Resources (Paid):**
+- ARRL License Manual - comprehensive reference ($25)
+- Ham Radio Prep app - mobile-friendly ($29)
+- Gordon West study guides - proven approach ($22)
+
+**Step 3: Find and Take the Exam**
+
+**In-Person Exams:**
+- Find sessions at ARRL.org/find-an-amateur-radio-license-exam
+- Volunteer Examiner Coordinators (VECs) run sessions
+- Typical fee: $0-$15
+- Bring: Government ID, FRN, exam fee, pencils
+
+**Online Exams:**
+- Available since 2020
+- Fully remote with video proctoring
+- Same exam, same validity
+- Popular options: GLAARG, Anchorage VEC, W5YI
+
+**Step 4: Receive Your Call Sign**
+- FCC issues call sign within 1-2 weeks
+- Check status at FCC ULS website
+- Systematic call sign assigned (or pay $25 for vanity)
+- You're legal to transmit once call sign appears in database
+
+**3.2 Exam Day Tips**
+- No Morse code required (eliminated in 2007)
+- Take your time - no time limit at most sessions
+- Can retake same day if you fail (additional fee)
+- Can take multiple exams same session (Tech + General)
+
+**Visual Element:** Exam prep timeline infographic, "2 Week Study Plan" checklist
+
+---
+
+### Section 4: Best Ham Radios for Beginners (2025)
+**Word Count:** 800-1000 words
+**Target Keywords:** best ham radio for beginners, best handheld ham radio, baofeng vs yaesu
+
+**Content Outline:**
+
+**4.1 Types of Ham Radios**
+
+**Handheld Transceivers (HTs)**
+- Portable, battery-powered
+- Typical power: 5-8 watts
+- Best for: Beginners, portable use, emergencies
+- Range: 2-10 miles simplex, 25-50+ miles via repeater
+- Price range: $25-$300
+
+**Mobile Radios**
+- Vehicle or base installation
+- Typical power: 25-75 watts
+- Best for: Vehicle use, higher power needs
+- Range: Better than HTs due to higher power
+- Price range: $150-$500
+
+**Base Stations / HF Radios**
+- Desk setup with external antenna
+- Power: Up to 100W typically
+- Best for: Worldwide communication (requires General license)
+- Price range: $400-$3000+
+
+**4.2 Best Budget Radios Under $50**
+
+**Baofeng UV-5R (~$25)**
+- The gateway radio for thousands of hams
+- Dual-band VHF/UHF
+- Pros: Incredibly cheap, widely available, huge community
+- Cons: Mediocre receiver, confusing programming, questionable quality control
+- Verdict: Great first radio to learn on, plan to upgrade
+
+**Quansheng UV-K5 (~$30)**
+- The 2024-2025 budget king
+- Wide-band receive, firmware hackable
+- Pros: Better receiver than Baofeng, firmware community, more features
+- Cons: Still budget build quality
+- Verdict: Best budget option right now
+
+**Baofeng BF-F8HP (~$40)**
+- Higher power version (8W vs 5W)
+- Better antenna included
+- Pros: More power, better documentation
+- Cons: Still Baofeng quality
+- Verdict: Solid budget upgrade
+
+**4.3 Best Mid-Range Radios $50-$200**
+
+**Yaesu FT-4XR (~$80)**
+- Entry-level from premium brand
+- Excellent receiver sensitivity
+- Pros: Quality build, simple operation, reliable
+- Cons: Basic feature set, no wide-band receive
+- Verdict: Best beginner radio overall
+
+**Yaesu FT-65R (~$100)**
+- Step up from FT-4XR
+- More memory channels, better display
+- Pros: Great value, quality construction
+- Cons: Still basic compared to FT-60R
+- Verdict: Sweet spot for quality and price
+
+**Yaesu FT-60R (~$170)**
+- Legendary reliability
+- Wide-band receive
+- Pros: Built like a tank, excellent receiver, easy to use
+- Cons: Older design, no GPS
+- Verdict: Buy it for life radio
+
+**4.4 Best Entry HF Radios $400-$1500**
+
+**Xiegu G90 (~$450)**
+- Compact 20W HF transceiver
+- Built-in antenna tuner
+- Pros: Affordable HF, portable, good performer
+- Cons: 20W limit, smaller community
+- Verdict: Best budget HF for General class
+
+**ICOM IC-7300 (~$1100)**
+- The gold standard entry HF
+- Software Defined Radio architecture
+- Pros: Excellent performance, waterfall display, touchscreen
+- Cons: Price, requires General license
+- Verdict: Best-in-class if budget allows
+
+**4.5 Our Recommendations by Budget**
+
+**$100 Budget - "Get Started"**
+- Quansheng UV-K5 ($30)
+- Nagoya NA-771 antenna ($15)
+- Programming cable ($10)
+- SWR meter ($25)
+- Remaining: License fees
+- **Total: ~$115 all-in**
+
+**$200 Budget - "Solid Foundation"**
+- Yaesu FT-65R ($100)
+- Nagoya NA-771 antenna ($15)
+- Speaker mic ($20)
+- Programming cable ($15)
+- License fees ($35)
+- **Total: ~$185 all-in**
+
+**$500 Budget - "Ready for HF"**
+- Yaesu FT-65R for VHF/UHF ($100)
+- Xiegu G90 for HF ($450)
+- Basic HF antenna ($50)
+- License fees ($35)
+- **Total: ~$635 all-in (requires General license for HF)**
+
+**Visual Element:** Product comparison table with affiliate links, "Which Radio Should I Buy?" flowchart
+
+---
+
+### Section 5: Essential Accessories & Equipment
+**Word Count:** 400-500 words
+**Target Keywords:** ham radio accessories, ham radio antenna, ham radio equipment
+
+**Content Outline:**
+
+**5.1 Antenna Upgrades (Biggest Impact)**
+- Stock antennas are compromise designs
+- Nagoya NA-771 - best $15 upgrade for any HT
+- Comet SMA-24 - premium option (~$35)
+- Roll-up J-pole - excellent portable performance (~$30)
+- Explanation of why antenna matters more than radio power
+
+**5.2 Programming Essentials**
+- Programming cable - Required for Baofeng/Quansheng (~$10)
+- CHIRP software - Free, works with most radios
+- RepeaterBook - Free repeater database
+- Why manual programming is painful
+
+**5.3 Power Solutions**
+- AA battery cases - Emergency backup
+- Higher capacity batteries - Extended operation
+- Solar chargers - Off-grid capability
+- Mobile power supplies - Base station use
+
+**5.4 Audio Accessories**
+- Speaker microphones - Easier operation (~$20-40)
+- Earpieces - Discrete listening
+- Headsets - Hands-free operation
+
+**5.5 Apartment-Friendly Solutions**
+- Mag-mount antennas on cookie sheets
+- Window-mount J-poles
+- Attic antennas
+- Balcony vertical antennas
+- Portable operation as alternative
+
+**Visual Element:** "Starter Accessory Kit" product grid with prices
+
+---
+
+### Section 6: Getting on the Air - Your First Contact
+**Word Count:** 400-500 words
+**Target Keywords:** ham radio first contact, how to use ham radio, ham radio for beginners
+
+**Content Outline:**
+
+**6.1 Before You Transmit**
+- Wait for your call sign in FCC database
+- Program local repeaters into your radio
+- Listen first - learn local protocols
+- Understand repeater etiquette
+
+**6.2 Finding Local Repeaters**
+- RepeaterBook.com - comprehensive database
+- Local radio club websites
+- Repeater offset and PL tones explained simply
+- Programming your radio with CHIRP
+
+**6.3 Making Your First Contact**
+- When to call: Wait for break in conversation
+- What to say: "[Your Call Sign], listening"
+- Basic QSO format: Call signs, signal reports, name and location
+- Phonetic alphabet basics (Alpha, Bravo, Charlie...)
+- Don't be nervous - hams are welcoming to newcomers
+
+**6.4 Types of Contacts to Try**
+- Local repeater conversations
+- Simplex (direct radio to radio)
+- Weekly nets (scheduled on-air meetings)
+- POTA/SOTA activations
+- Special event stations
+
+**6.5 Common Beginner Mistakes to Avoid**
+- Transmitting without a license
+- Not identifying with call sign
+- Kerchunking repeaters (transmitting without ID)
+- Over-explaining or rambling
+- Being afraid to make mistakes
+
+**Visual Element:** Sample QSO script, phonetic alphabet reference card
+
+---
+
+### Section 7: Ham Radio for Emergency Preparedness
+**Word Count:** 400-500 words
+**Target Keywords:** ham radio emergency communication, ham radio for preppers, emergency radio
+
+**Content Outline:**
+
+**7.1 Why Ham Radio for Emergencies**
+- Works when cell towers fail
+- No infrastructure dependency
+- Long-range communication capability
+- Licensed = trained operators
+- Community of skilled responders
+
+**7.2 Real Emergency Uses**
+- Hurricane communication (Katrina, Maria examples)
+- Wildfire coordination
+- Earthquake response
+- Search and rescue support
+- Health and welfare traffic
+
+**7.3 Emergency Organizations**
+- ARES (Amateur Radio Emergency Service)
+- RACES (Radio Amateur Civil Emergency Service)
+- SKYWARN weather spotters
+- Local emergency management integration
+
+**7.4 Building Emergency Capability**
+- Minimum: HT with spare batteries
+- Better: Mobile radio with car power
+- Best: HF capability for long-range
+- Go-bag essentials for radio operators
+
+**7.5 The 3-3-3 Plan for Preppers**
+- Check in at 3 PM
+- On channel 3 (local repeater)
+- For 3 days after disaster
+- Establish local communication plan
+
+**7.6 Legal Note: Emergencies and Unlicensed Operation**
+- FCC rules allow unlicensed transmission for immediate life safety
+- This is the exception, not the rule
+- Get licensed before you need it
+- Practice makes perfect
+
+**Visual Element:** Emergency go-bag checklist, 3-3-3 plan graphic
+
+---
+
+### Section 8: Frequently Asked Questions
+**Word Count:** 500-600 words
+**Target Keywords:** ham radio FAQ, ham radio questions
+
+**FAQ Items (schema.org FAQPage markup):**
+
+**Q1: Do I need a license to buy a ham radio?**
+A: No. Anyone can purchase ham radio equipment. You only need a license to transmit. Many people buy a radio first to listen and learn while studying for their exam.
+
+**Q2: How hard is the Technician exam?**
+A: Most people pass with 10-20 hours of study. The question pool is public, so you're studying the actual test questions. Pass rate is approximately 80% for first-time test takers.
+
+**Q3: How much does it cost to get started in ham radio?**
+A: Budget $100-150 total: FCC license fee ($35), exam fee ($0-15), and a basic radio ($25-100). You can be on the air for under $100 with a budget radio.
+
+**Q4: What's the difference between HF, VHF, and UHF?**
+A: HF (High Frequency) travels long distances via sky wave - good for worldwide contacts. VHF (Very High Frequency) and UHF (Ultra High Frequency) are line-of-sight and used for local communication via repeaters.
+
+**Q5: How far can a handheld ham radio reach?**
+A: Directly (simplex): 2-10 miles depending on terrain. Via repeater: 25-100+ miles. Range depends heavily on antenna, location, and repeater access.
+
+**Q6: Is Baofeng legal to use in the US?**
+A: Yes, for amateur radio use by licensed operators. The FCC has fined Baofeng for marketing radios to unlicensed users, but the radios themselves are legal for hams to use.
+
+**Q7: Can I use ham radio in emergencies without a license?**
+A: The FCC allows unlicensed transmission only for immediate threats to life or property when no other communication is available. This is an emergency exception, not a loophole.
+
+**Q8: How long does it take to get my call sign after passing?**
+A: Typically 1-2 weeks. Some VECs submit results same-day, others take a few days. Once your call sign appears in the FCC ULS database, you can transmit.
+
+**Q9: Do I need to learn Morse code?**
+A: No. The Morse code requirement was eliminated in 2007. You can get any license class without knowing code. Many hams still learn it as an optional skill.
+
+**Q10: What is a repeater?**
+A: A repeater receives your signal and retransmits it at higher power from an elevated location. This extends the range of handheld and mobile radios from a few miles to 50+ miles.
+
+---
+
+### Conclusion / Call to Action Section
+**Word Count:** 150-200 words
+
+**Content:**
+- Recap the journey: License → Radio → First Contact
+- Emphasize accessibility: $100 and 2 weeks to start
+- Encourage action: "The best time to start was years ago. The second best time is today."
+- Community aspect: Join 750,000+ US operators
+
+**Primary CTA:** Link to HamStudy.org to start studying
+**Secondary CTA:** Link to product recommendations section
+**Tertiary CTA:** Sign up for email updates (if implemented)
+
+---
+
+### Footer Elements
+- Affiliate disclosure (required)
+- About/contact links
+- Resource links (ARRL, FCC, etc.)
+- Copyright and site info
+
+---
+
+### Technical Implementation Notes
+
+**Schema.org Structured Data:**
+- Article schema for main content
+- FAQPage schema for FAQ section
+- Product schema for radio recommendations
+- BreadcrumbList schema
+
+**Internal Linking Strategy:**
+- Table of contents with anchor links
+- Cross-references between sections
+- Product links to comparison table
+
+**Affiliate Link Placement:**
+- Product comparison tables (Section 4)
+- Accessory recommendations (Section 5)
+- Budget breakdown boxes
+- In-line product mentions with Amazon links
+
+**Images Needed:**
+- Hero image (radio equipment lifestyle)
+- License comparison infographic
+- Radio type illustrations
+- Product photos (from Amazon)
+- Emergency communications photo
+- Cost breakdown graphic
+
+**External Links (dofollow):**
+- FCC CORES registration
+- HamStudy.org
+- ARRL exam finder
+- RepeaterBook.com
+- CHIRP download
