@@ -10,7 +10,7 @@ Domain: hamradioguide.webcytz.com
 - [x] Create directory structure (public/css, public/js, public/images)
 - [x] Initialize git repository
 - [x] Create GitHub repo (site-generator-hamradioguide)
-- [ ] Create Cloudflare Pages project with GitHub integration
+- [x] Create Cloudflare Pages project with GitHub integration
 - [ ] Add DNS CNAME record for hamradioguide.webcytz.com
 - [ ] Add custom domain to Cloudflare Pages project
 
