@@ -793,3 +793,154 @@ A: A repeater receives your signal and retransmits it at higher power from an el
 - ARRL exam finder
 - RepeaterBook.com
 - CHIRP download
+
+## Amazon Product Research
+
+### Verified Amazon Products with ASINs
+
+All affiliate links should use the format: `https://www.amazon.com/dp/[ASIN]?tag=kcwd-20`
+
+---
+
+### Budget Handheld Radios ($20-50)
+
+#### 1. Baofeng UV-5R (Classic)
+- **ASIN:** B007H4VT7A
+- **Price:** ~$25-30
+- **Description:** BAOFENG UV-5R Dual Band Two Way Radio (Black), 144-148MHz & 420-450MHz
+- **Key Features:** 4W power, dual-band VHF/UHF, compact handheld transceiver
+- **Affiliate Link:** `https://www.amazon.com/dp/B007H4VT7A?tag=kcwd-20`
+
+#### 2. Quansheng UV-K5
+- **ASIN:** B0C9TVSYYM
+- **Price:** ~$30
+- **Description:** QUANSHENG UV-K5 Walkie Talkie Dual Band 5W Rechargeable Two Way Radio with NOAA Emergency Weather Receiver, Type-C Charging
+- **Key Features:** 5W power, CHIRP compatible, wide-band receive, firmware hackable, USB-C charging
+- **Affiliate Link:** `https://www.amazon.com/dp/B0C9TVSYYM?tag=kcwd-20`
+
+#### 3. Baofeng BF-F8HP (UV-5R 3rd Gen)
+- **ASIN:** B00MAULSOK
+- **Price:** ~$40-50
+- **Description:** BAOFENG BF-F8HP 8-Watt Dual Band Two-Way Radio (136-174MHz VHF & 400-520MHz UHF) with Full Kit and Large Battery
+- **Key Features:** 8W max power (selectable 1W/4W/8W), improved antenna over UV-5R, full accessory kit included
+- **Affiliate Link:** `https://www.amazon.com/dp/B00MAULSOK?tag=kcwd-20`
+
+---
+
+### Mid-Range Handheld Radios ($50-200)
+
+#### 4. Yaesu FT-65R
+- **ASIN:** B06VSNWYYX
+- **Price:** ~$100
+- **Description:** Yaesu Original FT-65 FT-65R 144/440 Dual-Band Rugged & Compact Handheld Transceiver, 5W - 3 Year Warranty
+- **Key Features:** IP54 rating (dust/water protection), MIL-STD-810 rugged, 3 power settings (5W/2.5W/0.5W), 1W speaker output, 1950mAh battery (9+ hours), rapid charger included
+- **Affiliate Link:** `https://www.amazon.com/dp/B06VSNWYYX?tag=kcwd-20`
+
+#### 5. Yaesu FT-60R
+- **ASIN:** B004P4PDAO
+- **Price:** ~$170
+- **Description:** Yaesu FT-60R DualBand Handheld 5W VHF/UHF Amateur Radio Transceiver
+- **Key Features:** Wide receive (108-520MHz & 700-999MHz), 1000 alphanumeric memories, WX alert, legendary reliability
+- **Affiliate Link:** `https://www.amazon.com/dp/B004P4PDAO?tag=kcwd-20`
+
+---
+
+### HF Radios ($400-1500)
+
+#### 6. Xiegu G90
+- **ASIN:** B08X6Z6KN2
+- **Price:** ~$450
+- **Description:** Xiegu G90 HF Radio Transceiver 20W SSB/CW/AM/FM SDR Structure with Built-in Auto Antenna Tuner
+- **Key Features:** 20W output, SDR architecture, built-in auto antenna tuner, 48KHz spectrum display with waterfall, portable design, removable display head
+- **Affiliate Link:** `https://www.amazon.com/dp/B08X6Z6KN2?tag=kcwd-20`
+
+#### 7. ICOM IC-7300
+- **ASIN:** B01C95F56M
+- **Price:** ~$1100
+- **Description:** ICOM 7300 02 Direct Sampling Shortwave Radio - HF/50MHz 100W Transceiver
+- **Key Features:** RF direct sampling SDR, 4.3" color touchscreen, real-time spectrum scope with waterfall, built-in auto tuner, 101 channels, SD card slot
+- **Affiliate Link:** `https://www.amazon.com/dp/B01C95F56M?tag=kcwd-20`
+
+---
+
+### Essential Accessories
+
+#### 8. Nagoya NA-771 Antenna (SMA-Female for Baofeng)
+- **ASIN:** B00KC4PWQQ
+- **Price:** ~$15
+- **Description:** Authentic Genuine Nagoya NA-771 15.6-Inch Whip VHF/UHF (144/430Mhz) Antenna SMA-Female for BTECH and BaoFeng Radios
+- **Key Features:** 15.6" whip antenna, up to 3 dBi gain, significant upgrade from stock antennas
+- **Affiliate Link:** `https://www.amazon.com/dp/B00KC4PWQQ?tag=kcwd-20`
+
+#### 9. USB Programming Cable (CHIRP Compatible)
+- **ASIN:** B07V4D6F5F
+- **Price:** ~$10
+- **Description:** BAOFENG USB Programming Cable PL2303 Support CHIRP Compatible with UV-5R, BF-F8HP, Quansheng UV-K5, and many others
+- **Key Features:** Works with CHIRP software, compatible with Windows XP-11 and Mac, 39" cable length, works with most Baofeng/Quansheng radios
+- **Affiliate Link:** `https://www.amazon.com/dp/B07V4D6F5F?tag=kcwd-20`
+
+#### 10. Baofeng Speaker Microphone
+- **ASIN:** B00BYMKKT4
+- **Price:** ~$10-15
+- **Description:** BAOFENG Speaker MIC For BAOFENG UV-5R 5RA 5RB 5RC 5RD 5RE 5REPLUS 3R+ 5R EX, 5RX3
+- **Key Features:** 3.5mm headphone jack, remote PTT, compatible with UV-5R series
+- **Affiliate Link:** `https://www.amazon.com/dp/B00BYMKKT4?tag=kcwd-20`
+
+#### 11. Yaesu SSM-17B Speaker Microphone
+- **ASIN:** B07T2F6GYL
+- **Price:** ~$35-40
+- **Description:** Yaesu SSM-17B Compact Speaker Microphone for FT-65, FT-25, and FT-4X/V
+- **Key Features:** Genuine Yaesu accessory, compact design, fits FT-65R and FT-4XR
+- **Affiliate Link:** `https://www.amazon.com/dp/B07T2F6GYL?tag=kcwd-20`
+
+---
+
+### Product Comparison Quick Reference
+
+| Product | ASIN | Price | Category |
+|---------|------|-------|----------|
+| Baofeng UV-5R | B007H4VT7A | ~$25 | Budget HT |
+| Quansheng UV-K5 | B0C9TVSYYM | ~$30 | Budget HT |
+| Baofeng BF-F8HP | B00MAULSOK | ~$40 | Budget HT |
+| Yaesu FT-65R | B06VSNWYYX | ~$100 | Mid-Range HT |
+| Yaesu FT-60R | B004P4PDAO | ~$170 | Mid-Range HT |
+| Xiegu G90 | B08X6Z6KN2 | ~$450 | Entry HF |
+| ICOM IC-7300 | B01C95F56M | ~$1100 | Premium HF |
+| Nagoya NA-771 | B00KC4PWQQ | ~$15 | Antenna |
+| Programming Cable | B07V4D6F5F | ~$10 | Accessory |
+| Baofeng Speaker Mic | B00BYMKKT4 | ~$12 | Accessory |
+| Yaesu SSM-17B | B07T2F6GYL | ~$38 | Accessory |
+
+---
+
+### Starter Kit Bundles (for site content)
+
+**$100 Budget Kit:**
+- Quansheng UV-K5 (B0C9TVSYYM) - $30
+- Nagoya NA-771 (B00KC4PWQQ) - $15
+- Programming Cable (B07V4D6F5F) - $10
+- FCC License Fee - $35
+- **Total: ~$90**
+
+**$150 Budget Kit:**
+- Baofeng BF-F8HP (B00MAULSOK) - $45
+- Nagoya NA-771 (B00KC4PWQQ) - $15
+- Programming Cable (B07V4D6F5F) - $10
+- Speaker Mic (B00BYMKKT4) - $12
+- FCC License Fee - $35
+- **Total: ~$117**
+
+**$200 Quality Kit:**
+- Yaesu FT-65R (B06VSNWYYX) - $100
+- Yaesu SSM-17B Speaker Mic (B07T2F6GYL) - $38
+- FCC License Fee - $35
+- **Total: ~$173**
+
+---
+
+### Notes for Implementation
+- All ASINs verified as of December 2025
+- Prices are approximate and subject to change
+- Use affiliate tag `kcwd-20` on all Amazon links
+- Product schema markup should use these ASINs
+- Consider adding "Check Current Price" buttons that link to Amazon
