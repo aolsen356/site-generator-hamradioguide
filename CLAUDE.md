@@ -127,3 +127,154 @@ This file will be updated as the site develops.
 - Speaker microphones
 - SWR meters
 - Power supplies
+
+## Competitor Analysis
+
+### Top 3 Competitors Analyzed
+
+#### 1. The Prepared (theprepared.com)
+**URL:** https://theprepared.com/survival-skills/guides/beginners-guide-amateur-ham-radio-preppers/
+
+**Content Sections:**
+- Comparison of radio types (Ham, CB, FRS, GMRS, MURS)
+- Why ham radio is best for preppers
+- Range comparisons across radio types
+- Licensing requirements and test prep
+- Radio physics fundamentals (frequencies, wavelengths, bands)
+- Equipment overview (handheld, mobile, base stations)
+
+**Strengths:**
+- Expert credentials (96+ years combined experience cited)
+- Strong prepper/emergency focus angle
+- Progressive complexity structure
+- Myth-busting on range claims
+- Visual aids for technical concepts
+- Actionable resources (ARRL, QRZ links)
+
+**Weaknesses:**
+- Dense physics sections may overwhelm beginners
+- Limited disaster-specific scenarios
+- Minimal digital modes coverage
+- Few product alternatives discussed
+
+**Products Recommended:** Baofeng BF-F8HP, UV-5R
+
+---
+
+#### 2. Instructables (Getting Started With Ham Radio)
+**URL:** https://www.instructables.com/Getting-Started-in-Ham-Radio/
+
+**Content Sections:**
+- 5-step structure: Study → Get Radio → License Exam → Socialize → Learn More
+- Wave behavior and electronics concepts
+- Radio programming guidance
+- FCC licensing procedures
+- Local repeater networks and traffic nets
+- Antenna installation basics
+
+**Strengths:**
+- Personal narrative approach (author shares journey)
+- Progressive learning path
+- Strong community focus emphasis
+- Practical exam details and what to expect
+
+**Weaknesses:**
+- Limited technical depth on radio mechanics
+- Minimal safety considerations
+- Few equipment alternatives presented
+- Lacks troubleshooting guidance
+
+**Products Recommended:** Baofeng UV-5R (3rd gen), programming cable, ARRL manuals
+
+---
+
+#### 3. Ham Radio DX (hamradiodx.net)
+**URL:** https://hamradiodx.net/ham-radio-for-beginners/
+
+**Content Sections:**
+- Licensing and FCC exam preparation
+- Affordable equipment selection
+- HF antenna fundamentals
+- On-air etiquette and calling CQ
+- Band selection strategies
+- Software Defined Radios (SDRs) explained
+
+**Strengths:**
+- Video-heavy format (YouTube integration)
+- "Zero to Hero" practical progression
+- Budget-focused recommendations
+- Active blog with recent content
+- SDR coverage (unique topic)
+
+**Weaknesses:**
+- Heavy reliance on embedded videos
+- Limited safety/regulatory details
+- Affiliate focus may bias reviews
+- Minimal community/club coverage
+
+**Products Recommended:** Budget-focused Baofeng, Icom, Yaesu mentioned
+
+---
+
+### Content Gaps & Opportunities
+
+Based on competitor analysis, the following content gaps present opportunities for differentiation:
+
+#### 1. **Underserved Topics (Not Well Covered)**
+- **Digital modes for beginners** (FT8, JS8Call, DMR) - None cover this adequately
+- **Troubleshooting guide** - Common beginner problems and fixes
+- **Safety considerations** - RF exposure, electrical safety, grounding
+- **Used equipment buying tips** - Where to buy, what to check
+- **Modern SDR integration** - Only briefly mentioned by one competitor
+- **Apartment/HOA-friendly antenna solutions** - Major pain point ignored
+- **Budget breakdown with real costs** - License fees + equipment + accessories total
+
+#### 2. **Content Format Opportunities**
+- **Side-by-side comparison tables** - Competitors use text-heavy descriptions
+- **Decision flowcharts** - "Which radio should I buy?" visual guide
+- **Cost calculators** - Total investment breakdown
+- **Quick-start checklists** - Downloadable/printable resources
+- **Video transcripts/summaries** - Text alternative to competitor video reliance
+
+#### 3. **Audience Segments Underserved**
+- **Apartment dwellers** - Antenna restrictions, portable solutions
+- **POTA/SOTA enthusiasts** - Parks/Summits on the Air popularity growing
+- **Digital-first operators** - Younger demographic prefers digital modes
+- **Non-preppers** - Hobbyist angle (satellites, contesting, DXing)
+- **Women in ham radio** - Inclusive messaging, community resources
+
+#### 4. **Product Coverage Gaps**
+- **Quansheng UV-K5** - Hot budget radio barely mentioned
+- **Xiegu G90** - Entry HF gap in most guides
+- **Antenna upgrade paths** - Beyond stock antenna recommendations
+- **Programming software** - CHIRP and manufacturer software guides
+- **Power solutions** - Battery packs, solar charging for portable ops
+
+#### 5. **Trust & Authority Opportunities**
+- **Recent 2025 information** - Many guides have outdated content
+- **Current exam pool info** - New Technician pool (2022-2026)
+- **FCC fee structure** - $35 application fee often omitted
+- **Online exam options** - Post-COVID testing changes
+
+### Differentiation Strategy for hamradioguide.webcytz.com
+
+**Primary Differentiators:**
+1. **Most current information** - 2025 prices, exam pools, FCC fees
+2. **Comprehensive comparison tables** - Side-by-side product comparisons
+3. **Budget transparency** - Clear "total cost to get started" breakdowns
+4. **Apartment-friendly focus** - Solutions for restricted antenna situations
+5. **Digital modes introduction** - Modern ham radio beyond voice
+
+**Unique Content Angles:**
+- "What $100 will actually get you started" - realistic budget guide
+- "The apartment dweller's guide to ham radio" - HOA/restricted solutions
+- "Your first week on the air" - step-by-step post-license guide
+- "Ham radio vs CB vs GMRS" - clear comparison chart
+- "Is Baofeng worth it?" - honest budget radio assessment
+
+**SEO Advantage Areas:**
+- "ham radio for apartments"
+- "cheapest way to get ham radio license"
+- "quansheng uv-k5 review"
+- "ham radio digital modes for beginners"
+- "ham radio total cost"
